@@ -26,5 +26,5 @@ The goal is to obtain a model which will allow the data transmitted to be truste
 2. Using a rotating master mechanism to ensure optimum life cycle usage amongst all devices
 3. Using a neural net to detect anomalies and discard them
 4. Using a priority level based network
-
+5. Using a rotating cycle socket approval mechanism to validate the authenticity of each node
 
