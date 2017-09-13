@@ -1,0 +1,23 @@
+# Stuff from my non-digital, paper-pen notepad
+
+- Book: Ascent of Money
+- [Modulo](https://en.wikipedia.org/wiki/Modulo_operation) and [Multiplicative inverse](https://en.wikipedia.org/wiki/Multiplicative_inverse)
+- Medici Effect 
+- Sawtooth Lake
+- Merkle tree
+- Lisk.io
+- Merkle Damgard construction
+- Elliptic curve cryptography
+- [Weierstrass equation](http://www.mathematik.uni-regensburg.de/kerz/ss16/ausarb/bauer.pdf)
+- [Weierstrass's elliptic functions](https://en.wikipedia.org/wiki/Weierstrass%27s_elliptic_functions)
+- Galois fields
+- Byzantine falls
+- Quorum JP morgan
+- Gini coefficient
+- Zero knowledge proofs
+- Cocoa framework
+- Augur 
+- Digital certificates aren't secure, why and how ? [1](http://resources.infosecinstitute.com/cybercrime-exploits-digital-certificates/#gref)
+- Digital Music right managem Ujo music
+- Blockchain IOT Chronicled, Filament, iota
+- [Bigchain DB](bigchaindb.com) 
