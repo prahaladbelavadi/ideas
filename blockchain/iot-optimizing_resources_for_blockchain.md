@@ -35,3 +35,9 @@ The goal is to obtain a model which will allow the data transmitted to be truste
 4. Using a priority level based network
 5. Using a rotating cycle socket approval mechanism to validate the authenticity of each node
 
+# Resources:
+- [IOTA](http://iota.org/)
+- [IOT w/ Private Blockchain (IBM)](https://www.ibm.com/internet-of-things/platform/private-blockchain/)
+- [Tech Crunch Review](https://techcrunch.com/2016/06/28/decentralizing-iot-networks-through-blockchain/)
+- [Use cases of Blockchain based IOT](https://blockgeeks.com/5-incredible-blockchain-iot-applications/)
+
