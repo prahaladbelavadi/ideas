@@ -6,3 +6,6 @@
 
 ### [Blockchain Identities](./blockchain_based_identities/countries)
 ### [Blockchain Analytics](./blockchain_analytics/neural_net)
+
+### Medium
+- [Redesigning Referral systems](https://medium.com/@prahaladbelavadi/remodeling-referral-systems-f971286b95fd)
