@@ -6,7 +6,12 @@
 For long, giant tech companies have undertaken the task of securing and validating our two factor authentications. [Google](https://www.google.com/landing/2step/) and [Apple](https://support.apple.com/en-in/HT204915) being one of the many centralized ones out there. 
 Banks, Exchanges and many instutions require the use of 2 Factor Authentication to identify their customers. 2 factor Authentication plays an important role in not only securing the identity of a person but also prevent uncalculated, unintended actions by malicius entities. It is by all means a grave necessity in our digital lives.
 
-We encounter many instances where independent entities implement 2 Factor authentication to independently establish and secure their customer's user journey where ~~~__Needs to be completed!__~~
+We encounter many instances where independent entities implement 2 Factor authentication to independently establish and secure their customer's user journey where we as individual users are reliant on these independent entities to act on good faith and not misuse our idenitity. We're essentially letting someone else act as a mediator between a person that needs to be assured of our identity and the real us. We've hence trusted and paved way for a 3rd party mediator upon whose goodwill we count upon.
+
+This is a tremendous amount of power within a single entity to decide upon the identity of a person. 
+This needs to change.
+
+~~~__Needs to be completed!__~~
 
 - #### Why :
 
@@ -30,3 +35,5 @@ The signature and the hash sent by the authentee is encrypted and stored for a d
 ###### References:
 - [Wikipedia 2 Factor Authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication)
 - [![](https://img.youtube.com/vi/qtOIh93Hvuw/maxresdefault.jpg)](https://www.youtube.com/watch?v=qtOIh93Hvuw)
+- [Google 2 Factor Authentication](https://www.google.com/landing/2step/)
+- [Apple 2 Factor Authentication](https://support.apple.com/en-in/HT204915)
