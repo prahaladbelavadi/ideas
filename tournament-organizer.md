@@ -15,3 +15,10 @@ An online platform to organize games, register, and make fixtures and take payme
 Integrations with google email;
 
 Create a community of sports fanatics
+
+Can monetize through branding. selling sports equipment.
+
+There will be a house cut apart from the prizes to be awarded.
+
+THere can be price demarcation for people that sign up early and last mintute cancellations.
+
