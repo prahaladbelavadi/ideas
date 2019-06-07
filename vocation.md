@@ -17,3 +17,12 @@ People must have options that allows them to access array of information that gi
 Specializations can demand a premium, but lowering the barrier to knowledge consumption must be goal of a progress driven society.
 
 Those, that posses the will, musthave options to consume.
+
+
+THis could be posed as summer classes or rather just one day vocational schools.
+People are taught how to fix their bikes, change their car tire puncture, how to cook, how to eat a healthy balanced diet, how to perform first aid, cpr, how to write, how to articulate their thoughts, how and whom to approach to get something within their society done like the road repairs, how to file taxes, how to program, understand circuitry behind housing systems, how to assemble a computer, how to fix a leaking tap and so much more.
+
+Why can't economics or game theory be taught too ?
+Won't they learn how to invent new business ideas ?
+
+Elevator pitch: Vocational school in a day. A platform that crowdsources topics, hires relevant people to deliver in depth seminars or moocs that eventually results in an educated society. We make money by charging attendees for the subject mater expert people's time, effort, equipment and so forth. Supply Demand game. There is tremendous opportunities for branding.
