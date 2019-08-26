@@ -1,0 +1,26 @@
+There are already tools that exist to do this.
+This is purely a developer driven idea.
+
+There's so many cool ui themes with angular and react and electron and all these different frameworks.
+The closest thing to a good user experience for someone that's non technical but has to sift through data is Studio 3t or robo 3t apart from mongo compass.
+
+The idea is to build a web portal, where you can plugin your credentials and directly view or query your data instead of installing a native tool.
+
+There barely is anything to analyse data through the web.
+
+Often startup level folks are either using native applications for minimal data cleaning purposes or just gathering bare analytics.
+
+There are a ton of beautiful front end libraries.
+There can be a server in the middle talking between a end client user and their cluster.
+
+What is stopping us from providing a tool that people can use to have a seamless web experience to view, clean and analyse basic data via web ?
+
+Frankly nothing.
+
+This is a low hanging fruit for a problem to solve with utility.
+
+This can be bootstrapped into a business by providing analytics, advanced functionality, better user experience or by running on a freemium or a saas model. Or this could also take up advertizing albeit that would be counter intuitive since we'd be parsing their data and incentives aren't necessarily aligned in a ad model.
+
+We're better off working directly with the end customer
+
+
