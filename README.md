@@ -1,5 +1,5 @@
 # ideas
-the repository lists ideas and white papers to different solutions that can help better our world 
+the repository lists ideas that are probably fun to build and would be cool if it existed
 
 - [Blockchain Ideas](./blockchain)
 - [Cryptography Ideas](./cryptography)
